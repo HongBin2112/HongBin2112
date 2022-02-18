@@ -1,6 +1,6 @@
 <h2>- 👋 Hi, I’m @HongBin2112</h2>
 <hr>
-<p>I'm a university student</p>
+<p>I'm a college student, major in EE.</p>
 <ul>- 🌱 I’m currently learning ...
   <li>python</li>
   <li>website. html,css...</li>
