@@ -3,7 +3,7 @@
 <p>I'm a college student, major in EE.</p>
 <ul>- 🌱 I’m currently learning ...
   <li>python</li>
-  <li>website. -> html,css...</li>
+  <li>html,css, and javascript</li>
   <li>DSP</li>
   <li>machine learning</li>
   <li>IC design. -> verilog</li>
