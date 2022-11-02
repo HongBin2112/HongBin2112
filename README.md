@@ -1,12 +1,15 @@
-<h2>- 👋 Hi, I’m @HongBin2112</h2>
+## 👋 Hi, I’m @HongBin2112
+
 <hr>
-<p>I'm a college student, major in EE.</p>
+
+### I'm a college student, major in EE.
+
 <ul>- 🌱 I’m currently learning ...
   <li>python</li>
-  <li>html,css, and javascript</li>
+  <li>Html,CSS, and Javascript</li>
   <li>DSP</li>
-  <li>machine learning</li>
-  <li>IC design. -> verilog</li>
+  <li>Machine learning</li>
+  <li>IC design: Verilog</li>
   <li>...</li>
 </ul>
 
