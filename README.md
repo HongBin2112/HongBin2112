@@ -1,16 +1,16 @@
-## 👋 Hi, I’m @HongBin2112
+# 👋 Nice to meet you, I’m @HongBin2112
 
 
-### I'm a college student, major in EE.
+## I'm a college student, major in EE.
 
 ---
 
-### 🌱 I’m currently learning ...  
-- Python
-- Html,CSS, and Javascript
-- Machine learning
-- IC design: Verilog
-- DSP
+## 🌱 I’m currently learning ...  
+- ### Python
+- ### Html,CSS, and Javascript
+- ### Machine learning
+- ### IC design: Verilog
+- ### DSP
 - .....
 
 
