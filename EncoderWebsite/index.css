@@ -1,0 +1,76 @@
+
+
+body{
+    /*'cwTeXYen' 圓體字體*/
+    font-family: 'Noto Sans TC',sans-serif !important;
+}
+
+hr{
+    margin-top:10px;
+    margin-bottom: 10px;
+    width: 100%;
+    border-top: 7px double;
+    color: #000;
+}
+
+#title-block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0px auto;
+
+    background-color: #98a594;
+}
+
+#title-block img{
+    margin: 10px auto;;
+    height:95%;
+    border-radius: 100%;
+}
+#title-block hr{
+    margin-top:0px;
+}
+
+
+
+#main-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin:10px 5%;
+}
+
+#main-content button{
+    width: 250px;
+
+    outline:none;
+    background-color: transparent;
+    border: none;
+
+    font-family:"cwTeXYen";
+    font-size:1.25em;
+
+    margin: auto 10px;
+    transition : 0.25s ease-in;
+    
+    background-color: #98a594;
+    border-radius: 3px;
+    
+}
+
+#main-content button::after{
+    content:" ";
+    display:block; 
+    width: 0%;
+    height: 2px;
+    background-color: #000;
+    transition: .3s;
+  }
+
+#main-content button:hover{
+    opacity : 1;
+    transform : scale(1.05);
+}
+
